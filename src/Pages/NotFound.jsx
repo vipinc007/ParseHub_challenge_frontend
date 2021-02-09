@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { useHistory } from "react-router-dom";
-import AuthManager from "../Common/AuthManager";
 
 function NotFound(props) {
   const history = useHistory();

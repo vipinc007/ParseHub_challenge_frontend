@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import ServiceWrapper from "../Services/ServiceWrapper";
-import Utils from "../Common/Utils";
 import AppSettings from "../Settings/AppSettings";
 
 function FileList() {
