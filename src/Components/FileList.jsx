@@ -44,8 +44,8 @@ function FileList() {
               className="spinner-grow spinner-grow-sm"
               role="status"
               aria-hidden="true"
-            ></span>{" "}
-            Loading.....
+            ></span>
+            &nbsp; Loading.....
           </>
         )}
       </div>
